@@ -1,12 +1,12 @@
 # treasureMap
 
-###Run the tests
+### Run the tests
   
 ```bash 
 npm test
 ```
 
-###Run the app
+### Run the app
 
 ```bash 
 npm start
